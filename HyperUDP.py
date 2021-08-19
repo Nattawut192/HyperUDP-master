@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#CREATE BY.Wachira
+#CREATE BY.Nattawut
 import random
 import socket
 import threading
@@ -10,7 +10,6 @@ print( '''
 Hyper UDP FlooD
 
                             ATTACK | SERVER | HOME
-				CREATE BY.Wachira
 ____________________________________________________________
 ------------------------------------------------------------
 	''')
